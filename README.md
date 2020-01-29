@@ -1,5 +1,5 @@
 # KSP-RP1-Werner-Checklist-Config
-This is a config configured for the Werner Checklist mod originally made by Magion and now currently mainted by linuxgurugamer
+This is a config that configures the Werner Checklist Continued mod originally made by Magion and now currently mainted by linuxgurugamer to be compatible with RP1.
 
 Installation
 ______________________
